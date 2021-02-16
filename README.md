@@ -14,18 +14,18 @@ DEPENDENCIES
 
 Below I mention the libraries that I used for the development of this project
 
-A.  Pandas
-B.  Pyskark
-C.  Matplotlib
-D.  Numpy
-E.  Sklearn
+A.  Pandas.
+B.  Pyskark.
+C.  Matplotlib.
+D.  Numpy.
+E.  Sklearn.
 
 FILES
 
-A.  Sparkify.ipynb - Notebook used for analysis the data
+A.  Sparkify.ipynb - Notebook used for analysis the data.
 
 RESULTS
 
-In the following link you can find the blog and the results that I shared for the technical public
+In the following link you can find the blog and the results that I shared for the technical public.
 
 
