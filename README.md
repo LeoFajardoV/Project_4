@@ -28,4 +28,5 @@ RESULTS
 
 In the following link you can find the blog and the results that I shared for the technical public.
 
+https://leo-fajardo-vasquez14.medium.com/are-you-worried-about-customer-churn-4a37978e434f
 
